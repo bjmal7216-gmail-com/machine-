@@ -1,0 +1,4 @@
+def main()
+  student={'name':"badr",'age':27,'salary':234.5};
+  Print(student,type(student))
+  Print(student['name'])
